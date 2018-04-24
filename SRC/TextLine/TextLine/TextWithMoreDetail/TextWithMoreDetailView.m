@@ -12,7 +12,6 @@
 
 @interface TextWithMoreDetailView ()
 @property (nonatomic, strong) TextWithMoreDetailViewModel *model;
-@property (nonatomic) CTFramesetterRef frameSetter;
 @end
 
 @implementation TextWithMoreDetailView
